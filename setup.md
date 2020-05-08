@@ -1,5 +1,5 @@
 ---
-title: Setup
+title: Introduction to using the AOES/COLA Computing Systems
 ---
 FIXME
 
