@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
+title: "Logging In to the COLA Servers"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "Key question How do I log in to the COLA Server?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Using ssh to login to the COLA Server"
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
